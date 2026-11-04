@@ -103,6 +103,10 @@ Grove keeps the full history of these files. This repository imports none of
 it. The move changed the opening paragraph of each kind skill and added the
 frontmatter of the family skill. It changed no other text.
 
+Grove commit `57414e00cd876a9c0e1f8021786384ba7e368580` removed Grove's copies
+of these files. `GROVE_COMMIT` names that commit, so the aggregate check reads
+each research skill once.
+
 ## Licence
 
 ResearchSkills uses the Apache License 2.0, as Grove does. The `LICENSE` file
